@@ -24,3 +24,7 @@ All output messages start with "Quantum book store" for easy identification.
 - **services/** - Contains shipping and email services
 - **QuantumBookstore.java** - Main bookstore logic
 - **FullTest.java** - Test file that demonstrates all features
+
+## Examples from the Tests:
+![image](https://github.com/user-attachments/assets/97d4d39d-06d2-457e-9146-767560ff7b0a)
+
