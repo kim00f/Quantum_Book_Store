@@ -23,4 +23,4 @@ All output messages start with "Quantum book store" for easy identification.
 - **models/** - Contains all book types (Book, PaperBook, EBook, ShowcaseBook)
 - **services/** - Contains shipping and email services
 - **QuantumBookstore.java** - Main bookstore logic
-- **QuantumBookstoreFullTest.java** - Test file that demonstrates all features
+- **FullTest.java** - Test file that demonstrates all features
