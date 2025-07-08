@@ -27,4 +27,10 @@ All output messages start with "Quantum book store" for easy identification.
 
 ## Examples from the Tests:
 ![image](https://github.com/user-attachments/assets/97d4d39d-06d2-457e-9146-767560ff7b0a)
+![image](https://github.com/user-attachments/assets/3c49e948-788d-4aa5-a5bb-657d53dd09eb)
+![image](https://github.com/user-attachments/assets/b7078a19-0c0a-4d1a-b410-4abee1c273b9)
+![image](https://github.com/user-attachments/assets/d4342493-f16f-4d72-8fc5-b33d5b7d2ed7)
+
+
+
 
